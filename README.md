@@ -1,6 +1,6 @@
 # Futter Authentication with Open Auth0
 
-A basic authentication project in flutter. Auth0 is used for authenticating the users.
+A basic authentication project in flutter. Auth0 is used for authenticating the users.Flutter secure storage is used in project for storing the user details in local.
 
 ## Getting Started
 
