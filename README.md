@@ -17,3 +17,11 @@ samples, guidance on mobile development, and a full API reference.
 
 
 #### Project built from the article : https://auth0.com/blog/get-started-with-flutter-authentication/
+
+## UIs
+![image](https://user-images.githubusercontent.com/57280714/134035289-160cc376-3297-43c2-8fa2-eccfbffe6dd4.png)
+![image](https://user-images.githubusercontent.com/57280714/134035557-4825e127-6ab3-425c-afe5-3108867bea03.png)
+
+![image](https://user-images.githubusercontent.com/57280714/134035435-0b46d791-3832-43e7-9d08-3cdf6a172a8b.png)
+![image](https://user-images.githubusercontent.com/57280714/134035510-9280ba5c-fb67-46a5-8fdd-ed729d70a34e.png)
+
