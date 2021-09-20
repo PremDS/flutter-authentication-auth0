@@ -4,7 +4,7 @@ A basic authentication project in flutter. Auth0 is used for authenticating the 
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Create your own account in auth0, create application, add changes secret keys, client id and domain inplace and run. 
 
 A few resources to get you started if this is your first Flutter project:
 
